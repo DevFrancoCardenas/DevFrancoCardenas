@@ -118,13 +118,12 @@ Hi, I’m Franco Cardenas <img src = "https://raw.githubusercontent.com/MartinHe
 <br/>
 
 🏆GitHub Trophies
-<div align=center>
+
 
     <a href="https://github.com/devfrancocardenas/github-profile-trophy" title="Go to Source">
         <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=devfrancocardenas&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
       </a>
 
-    </div>
 
   <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
