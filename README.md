@@ -74,27 +74,27 @@ Hi, I’m Franco Cardenas <img src = "https://raw.githubusercontent.com/MartinHe
 
 ## Projects
 
-<a href=" https://devfrancocardenas.github.io/ChallengeEncriptadorONE/">
+<a href="https://devfrancocardenas.github.io/ChallengeEncriptadorONE/">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=devfrancocardenas&repo=ChallengeEncriptadorONE&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devfrancocardenas&repo=ChallengeEncriptadorONE&theme=tokyonight" />
 
 </a>  
 
-<a href="https://github.com/DevFrancoCardenas/Pasantia2020">
+<a href="https://github.com/DevFrancoCardenas/Pasantia2020/">
 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DevFrancoCardenas&repo=Pasantia2020=tokyonight" />
-
-</a> 
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devfrancocardenas&repo=Pasantia2020&theme=tokyonight" />
+  
+  </a> 
 
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
 
-<details> 
+
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
@@ -104,36 +104,18 @@ Hi, I’m Franco Cardenas <img src = "https://raw.githubusercontent.com/MartinHe
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devfrancocardenas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
   <br/>
   </p>
-</details>
 
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/devfrancocardenas"><img alt="ChallengeEncriptadorONE" src="https://activity-graph.herokuapp.com/graph?username=devfrancocardenas&custom_title=ChallengeEncriptadorONE%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
 
 <br/>
 
 🏆GitHub Trophies
 
+<a href="https://github.com/devfrancocardenas/github-profile-trophy" title="Go to Source">
+<img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=devfrancocardenas&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+</a>
 
-    <a href="https://github.com/devfrancocardenas/github-profile-trophy" title="Go to Source">
-        <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=devfrancocardenas&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-      </a>
 
-
-  <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-  ### Spotify Playing 🎧
-  
-  [![Spotify](https://novatorem.devfrancocardenas.vercel.app/api/spotify)](https://open.spotify.com/user/22rwzorvgfaxnlurmaow5iwfq)
-  
-  ---
-  
-  <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=devfrancocardenas&repo=devfrancocardenas&countColorcountColor&countColor=%237B1E7B"/>
 
 ---
 <p align="center">
