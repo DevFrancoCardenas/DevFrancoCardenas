@@ -76,7 +76,7 @@
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevFrancoCardenas&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=DevFrancoCardenas&theme=tokyonight&background=00000000&border=30363d&stroke=30363d&ring=7aa2f7&fire=7aa2f7&currStreakNum=7aa2f7" alt="GitHub Streak" />
 </p>
 </div>
 
