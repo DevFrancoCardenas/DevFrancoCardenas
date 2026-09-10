@@ -96,9 +96,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4200&pause=1200&color=7AA2F7&center=true&vCenter=true&multiline=true&width=820&height=85&lines=Companies+spend+millions+on+firewalls+and+devices,+and+it's+wasted+money;because+none+of+them+address+the+weakest+link:+the+people.;—+Kevin+Mitnick" alt="Kevin Mitnick Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4200&pause=1200&color=7AA2F7&center=true&vCenter=true&multiline=true&width=820&height=85&lines=Companies+spend+millions+on+firewalls+and+devices,+and+it%27s+wasted+money;because+none+of+them+address+the+weakest+link%3A+the+people.;%E2%80%94+Kevin+Mitnick" alt="Kevin Mitnick Quote" />
 </p>
-
 ---
 
 <p align="center">
