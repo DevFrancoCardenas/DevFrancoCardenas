@@ -96,23 +96,15 @@ Hi, I’m Franco Cardenas <img src = "https://raw.githubusercontent.com/MartinHe
 
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://ghstats.dev/api/sparkline?username=DevFrancoCardenas&theme=tokyonight&days=30&width=390&height=145&bg_color=00000000" alt="Contribution Sparkline" />
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://ghstats.dev/api/langs?username=DevFrancoCardenas&theme=tokyonight&max_langs=12&bg_color=00000000" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" valign="middle">
-        <img src="https://ghstats.dev/api/card?username=DevFrancoCardenas&theme=tokyonight&hide_title=true&border_radius=49.5&bg_color=00000000" alt="GitHub Stats Card" />
-      </td>
-    </tr>
-  </table>
-</div>
+
+<p align="center">
+  <img src="https://ghstats.dev/api/sparkline?username=DevFrancoCardenas&days=30&width=390&height=145&bg_color=00000000&border_color=30363d&color=bb9af7&line_color=bb9af7" alt="Contribution Sparkline" />
+  <img src="https://ghstats.dev/api/langs?username=DevFrancoCardenas&max_langs=12&bg_color=00000000&border_color=30363d&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=DevFrancoCardenas&hide_title=true&border_radius=49.5&bg_color=00000000&border_color=30363d&title_color=7aa2f7&text_color=a9b1d6&icon_color=7aa2f7" alt="GitHub Stats Card" />
+</p>
 
 
 🏆GitHub Trophies
