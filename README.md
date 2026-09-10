@@ -95,9 +95,16 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&width=750&height=70&lines=Thus+it+is+observable+that+an+attack+vector+conceived+and+executed+by+a+single+mind;is+far+more+lethal+and+elegant+than+one+pieced+together+by+many+hands.;—+René+Descartes+(Adapted)" alt="Hacking Quote" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <em>"Thus it is observable that an attack vector conceived and executed by a single mind is far more lethal and elegant than one pieced together by many hands."</em><br/>
+        <sub>— <b>Adaptation of René Descartes</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
