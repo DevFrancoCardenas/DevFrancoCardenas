@@ -96,9 +96,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4200&pause=1200&color=7AA2F7&center=true&vCenter=true&multiline=true&width=820&height=85&lines=Companies+spend+millions+on+firewalls+and+devices,+and+it%27s+wasted+money;because+none+of+them+address+the+weakest+link%3A+the+people.;%E2%80%94+Kevin+Mitnick" alt="Kevin Mitnick Quote" />
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevFrancoCardenas&custom_title=Contribution%20Graph&theme=tokyo-night&bg_color=00000000&hide_border=true&area=true" alt="Activity Graph" />
+
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
