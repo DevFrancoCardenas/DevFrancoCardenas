@@ -75,9 +75,9 @@
 
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="85%" src="https://github-profile-trophy.vercel.app/?username=DevFrancoCardenas&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevFrancoCardenas&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 </div>
 
 ---
