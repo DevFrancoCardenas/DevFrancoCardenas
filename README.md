@@ -74,12 +74,6 @@
 <br/>
 
 <div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DevFrancoCardenas&theme=tokyonight&background=00000000&border=30363d&stroke=30363d&ring=7aa2f7&fire=7aa2f7&currStreakNum=7aa2f7" alt="GitHub Streak" />
-</p>
-
-<div align="center">
   <h3>🔥 GitHub Streak Stats</h3>
   <img src="https://streak-stats.demolab.com/?user=DevFrancoCardenas&theme=tokyonight&background=00000000&border=30363d&stroke=30363d&ring=7aa2f7&fire=7aa2f7&currStreakNum=7aa2f7" alt="GitHub Streak" />
 </div>
