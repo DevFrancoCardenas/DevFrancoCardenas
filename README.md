@@ -95,16 +95,9 @@
 
 <br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <em>"Thus it is observable that an attack vector conceived and executed by a single mind is far more lethal and elegant than one pieced together by many hands."</em><br/>
-        <sub>— <b>Adaptation of René Descartes</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4200&pause=1200&color=7AA2F7&center=true&vCenter=true&multiline=true&width=820&height=85&lines=Companies+spend+millions+on+firewalls+and+devices,+and+it's+wasted+money;because+none+of+them+address+the+weakest+link:+the+people.;—+Kevin+Mitnick" alt="Kevin Mitnick Quote" />
+</p>
 
 ---
 
