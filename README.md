@@ -96,12 +96,12 @@ Hi, I’m Franco Cardenas <img src = "https://raw.githubusercontent.com/MartinHe
 
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
-<p>
-  <img src="https://ghstats.dev/api/sparkline?username=DevFrancoCardenas&theme=tokyonight&days=30&height=165" alt="Contribution Sparkline" />
+<p align="center">
+  <img src="https://ghstats.dev/api/sparkline?username=DevFrancoCardenas&theme=tokyonight&days=30&height=165&width=200" alt="Contribution Sparkline" />
   <img src="https://ghstats.dev/api/langs?username=DevFrancoCardenas&theme=tokyonight&hide_border=true&max_langs=12" alt="Top Languages" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://ghstats.dev/api/card?username=DevFrancoCardenas&theme=tokyonight&hide_title=true&border_radius=49.5" alt="GitHub Stats Card" />
 </p>
 
