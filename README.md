@@ -72,23 +72,21 @@ Hi, I’m Franco Cardenas <img src = "https://raw.githubusercontent.com/MartinHe
 
 </p>
 
-## Projects
-
 <p align="center">
   <a href="https://devfrancocardenas.github.io/ChallengeEncriptadorONE/">
-    <img width="45%" src="https://opengraph.githubassets.com/1/DevFrancoCardenas/ChallengeEncriptadorONE" alt="Challenge Encriptador ONE" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DevFrancoCardenas&repo=ChallengeEncriptadorONE&bg_color=00000000&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Challenge Encriptador ONE" />
   </a>
   <a href="https://github.com/DevFrancoCardenas/Pasantia2020">
-    <img width="45%" src="https://opengraph.githubassets.com/1/DevFrancoCardenas/Pasantia2020" alt="Pasantia 2020" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DevFrancoCardenas&repo=Pasantia2020&bg_color=00000000&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Pasantia 2020" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DevFrancoCardenas/apiTest">
-    <img width="45%" src="https://opengraph.githubassets.com/1/DevFrancoCardenas/apiTest" alt="apiTest" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DevFrancoCardenas&repo=apiTest&bg_color=00000000&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="apiTest" />
   </a>
   <a href="https://github.com/DevFrancoCardenas/DevFranco">
-    <img width="45%" src="https://opengraph.githubassets.com/1/DevFrancoCardenas/DevFranco" alt="DevFranco" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DevFrancoCardenas&repo=DevFranco&bg_color=00000000&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="DevFranco" />
   </a>
 </p>
 
