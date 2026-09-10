@@ -78,6 +78,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=DevFrancoCardenas&theme=tokyonight&background=00000000&border=30363d&stroke=30363d&ring=7aa2f7&fire=7aa2f7&currStreakNum=7aa2f7" alt="GitHub Streak" />
 </p>
+
+  <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevFrancoCardenas&theme=tokyo-night&bg_color=00000000&hide_border=true" alt="Activity Graph" />
+</p>
 </div>
 
 ---
