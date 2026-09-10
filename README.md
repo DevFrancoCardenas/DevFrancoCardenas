@@ -74,14 +74,10 @@ Hi, I’m Franco Cardenas <img src = "https://raw.githubusercontent.com/MartinHe
 
 ## Projects
 
-<p align="center">
-  <a href="https://github.com/DevFrancoCardenas/ChallengeEncriptadorONE">
-    <img src="https://gh-pins.deno.dev/devfrancocardenas/ChallengeEncriptadorONE" alt="Challenge Encriptador ONE" />
-  </a>
-  <a href="https://github.com/DevFrancoCardenas/Pasantia2020">
-    <img src="https://gh-pins.deno.dev/DevFrancoCardenas/Pasantia2020" alt="Pasantia 2020" />
-  </a>
-</p>
+| Proyecto | Demo / Repositorio | Tecnologías |
+| :--- | :--- | :--- |
+| **Challenge Encriptador ONE** | [Ver Proyecto Live](https://devfrancocardenas.github.io/ChallengeEncriptadorONE/) | `JavaScript` `HTML` `CSS` |
+| **Pasantia 2020** | [Ver Repositorio](https://github.com/DevFrancoCardenas/Pasantia2020/) | `Código Fuente` |
 
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
