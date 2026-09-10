@@ -97,9 +97,10 @@ Hi, I’m Franco Cardenas <img src = "https://raw.githubusercontent.com/MartinHe
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
 
+
 <p align="center">
-  <img src="https://ghstats.dev/api/sparkline?username=DevFrancoCardenas&days=30&width=390&height=145&bg_color=00000000&border_color=30363d&color=bb9af7&line_color=bb9af7" alt="Contribution Sparkline" />
-  <img src="https://ghstats.dev/api/langs?username=DevFrancoCardenas&max_langs=12&bg_color=00000000&border_color=30363d&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" />
+  <img valign="top" src="https://ghstats.dev/api/sparkline?username=DevFrancoCardenas&days=30&width=390&height=125&bg_color=00000000&border_color=30363d&color=bb9af7&line_color=bb9af7" alt="Contribution Sparkline" />
+  <img valign="top" src="https://ghstats.dev/api/langs?username=DevFrancoCardenas&max_langs=12&bg_color=00000000&border_color=30363d&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" />
 </p>
 
 <p align="center">
