@@ -74,10 +74,32 @@ Hi, I’m Franco Cardenas <img src = "https://raw.githubusercontent.com/MartinHe
 
 ## Projects
 
-| Proyecto | Demo / Repositorio | Tecnologías |
-| :--- | :--- | :--- |
-| **Challenge Encriptador ONE** | [Ver Proyecto Live](https://devfrancocardenas.github.io/ChallengeEncriptadorONE/) | `JavaScript` `HTML` `CSS` |
-| **Pasantia 2020** | [Ver Repositorio](https://github.com/DevFrancoCardenas/Pasantia2020/) | `Código Fuente` |
+<p align="center">
+  <a href="https://devfrancocardenas.github.io/ChallengeEncriptadorONE/">
+    <img width="45%" src="https://opengraph.githubassets.com/1/DevFrancoCardenas/ChallengeEncriptadorONE" alt="Challenge Encriptador ONE" />
+  </a>
+  <a href="https://github.com/DevFrancoCardenas/Pasantia2020">
+    <img width="45%" src="https://opengraph.githubassets.com/1/DevFrancoCardenas/Pasantia2020" alt="Pasantia 2020" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DevFrancoCardenas/CRM_GRADO">
+    <img width="45%" src="https://opengraph.githubassets.com/1/DevFrancoCardenas/CRM_GRADO" alt="CRM Grado" />
+  </a>
+  <a href="https://github.com/DevFrancoCardenas/CRM">
+    <img width="45%" src="https://opengraph.githubassets.com/1/DevFrancoCardenas/CRM" alt="CRM" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DevFrancoCardenas/crm_avance">
+    <img width="45%" src="https://opengraph.githubassets.com/1/DevFrancoCardenas/crm_avance" alt="CRM Avance" />
+  </a>
+  <a href="https://github.com/DevFrancoCardenas/apiTest">
+    <img width="45%" src="https://opengraph.githubassets.com/1/DevFrancoCardenas/apiTest" alt="apiTest" />
+  </a>
+</p>
 
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
