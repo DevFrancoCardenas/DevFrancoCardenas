@@ -83,7 +83,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DevFrancoCardenas/DevFrancoCardenas/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
