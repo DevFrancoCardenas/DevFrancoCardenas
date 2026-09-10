@@ -96,7 +96,23 @@ Hi, I’m Franco Cardenas <img src = "https://raw.githubusercontent.com/MartinHe
 
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
-![Uploading image.png…]()
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://ghstats.dev/api/sparkline?username=DevFrancoCardenas&theme=tokyonight&days=30&width=235&height=145" alt="Contribution Sparkline" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://ghstats.dev/api/langs?username=DevFrancoCardenas&theme=tokyonight&max_langs=12" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="middle">
+        <img src="https://ghstats.dev/api/card?username=DevFrancoCardenas&theme=tokyonight&hide_title=true&border_radius=49.5" alt="GitHub Stats Card" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 🏆GitHub Trophies
