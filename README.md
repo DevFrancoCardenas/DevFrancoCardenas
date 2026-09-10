@@ -74,21 +74,14 @@ Hi, I’m Franco Cardenas <img src = "https://raw.githubusercontent.com/MartinHe
 
 ## Projects
 
-<a href="https://devfrancocardenas.github.io/ChallengeEncriptadorONE/">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devfrancocardenas&repo=ChallengeEncriptadorONE&theme=tokyonight" />
-
-</a>  
-
-<a href="https://github.com/DevFrancoCardenas/Pasantia2020/">
-
-    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devfrancocardenas&repo=Pasantia2020&theme=tokyonight" />
-  
-  </a> 
+<p align="center">
+  <a href="https://devfrancocardenas.github.io/ChallengeEncriptadorONE/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devfrancocardenas&repo=ChallengeEncriptadorONE&theme=tokyonight" alt="Challenge Encriptador ONE" />
+  </a>
+  <a href="https://github.com/DevFrancoCardenas/Pasantia2020/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devfrancocardenas&repo=Pasantia2020&theme=tokyonight" alt="Pasantia 2020" />
+  </a>
+</p>
 
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
