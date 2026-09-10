@@ -1,76 +1,41 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-Hi, I’m Franco Cardenas <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Systems+Engineer+and+Cybersecurity+Professional" /></a>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align ="center">
-  
- 
-
-   <a href="https://www.linkedin.com/in/francocardenasv/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
- 
-   
- 
-
-
-<p >I specialize in the use of the Python programming language and its various frameworks and libraries, as well as in Cybersecurity and Ethical Hacking.
-</p>
-
-
-
-## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+# Hi, I’m Franco Cardenas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center">
-  <a  target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Systems+Engineer+and+Cybersecurity+Professional" alt="Typing SVG" />
   </a>
-
-  <a  target="_blank">
-    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  </a>
-  
-  <a  target="_blank">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  </a>
-  
-  <a  target="_blank">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  </a>
-  
-  <a  target="_blank">
-    <img alt="RUBY" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
-  </a>
-  <a  target="_blank">
-    <img alt="powershell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
-  </a>
-  
-   <a  target="_blank">
-    <img alt="GNUBASH" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-  </a>
-
-  <a  target="_blank">
-    <img alt="GNUBASH" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
-  </a>
-
-  <a  target="_blank">
-    <img alt="CHROME" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
-  </a>
-
-  <a  target="_blank">
-    <img alt="CHROME" src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
-  </a>
-
-  <a  target="_blank">
-    <img alt="STEAM" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-  </a>
-  
-  
-  
-
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/francocardenasv/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  I specialize in the use of the Python programming language and its various frameworks and libraries, as well as in Cybersecurity and Ethical Hacking.
+</p>
+
+---
+
+## Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px">
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img alt="GNU Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+</p>
+
+---
+
+## Projects 📂
 
 <p align="center">
   <a href="https://devfrancocardenas.github.io/ChallengeEncriptadorONE/">
@@ -90,37 +55,35 @@ Hi, I’m Franco Cardenas <img src = "https://raw.githubusercontent.com/MartinHe
   </a>
 </p>
 
+---
 
-## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+## GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="30px">
 
+<details open>
+  <summary><b>💻 Profile Details & Activity</b></summary>
+  <br/>
+  <p align="center">
+    <img valign="top" src="https://ghstats.dev/api/sparkline?username=DevFrancoCardenas&days=30&width=390&height=125&bg_color=00000000&border_color=30363d&color=bb9af7&line_color=bb9af7" alt="Contribution Sparkline" />
+    <img valign="top" src="https://ghstats.dev/api/langs?username=DevFrancoCardenas&max_langs=12&bg_color=00000000&border_color=30363d&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" />
+  </p>
+  <p align="center">
+    <img src="https://ghstats.dev/api/card?username=DevFrancoCardenas&hide_title=true&border_radius=49.5&bg_color=00000000&border_color=30363d&title_color=7aa2f7&text_color=a9b1d6&icon_color=7aa2f7" alt="GitHub Stats Card" />
+  </p>
+</details>
 
+<br/>
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-
-
-<p align="center">
-  <img valign="top" src="https://ghstats.dev/api/sparkline?username=DevFrancoCardenas&days=30&width=390&height=125&bg_color=00000000&border_color=30363d&color=bb9af7&line_color=bb9af7" alt="Contribution Sparkline" />
-  <img valign="top" src="https://ghstats.dev/api/langs?username=DevFrancoCardenas&max_langs=12&bg_color=00000000&border_color=30363d&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=DevFrancoCardenas&hide_title=true&border_radius=49.5&bg_color=00000000&border_color=30363d&title_color=7aa2f7&text_color=a9b1d6&icon_color=7aa2f7" alt="GitHub Stats Card" />
-</p>
-
-
-🏆GitHub Trophies
-
-<a href="https://github.com/devfrancocardenas/github-profile-trophy" title="Go to Source">
-<img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=devfrancocardenas&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-</a>
-
-
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="85%" src="https://github-profile-trophy.vercel.app/?username=DevFrancoCardenas&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
+  </a>
+</div>
 
 ---
+
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://raw.githubusercontent.com/DevFrancoCardenas/DevFrancoCardenas/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
