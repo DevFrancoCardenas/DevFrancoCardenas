@@ -12,6 +12,7 @@
   <a href="https://www.linkedin.com/in/francocardenasv/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=DevFrancoCardenas&style=for-the-badge&color=7aa2f7" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -77,12 +78,17 @@
   <h3>🔥 GitHub Streak Stats</h3>
   <img src="https://streak-stats.demolab.com/?user=DevFrancoCardenas&theme=tokyonight&background=00000000&border=30363d&stroke=30363d&ring=7aa2f7&fire=7aa2f7&currStreakNum=7aa2f7" alt="GitHub Streak" />
 </div>
-</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=00000000&border_color=30363d" alt="Dev Quote" />
+</p>
 
 ---
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
