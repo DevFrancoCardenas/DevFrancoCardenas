@@ -24,7 +24,6 @@
 ## Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px">
 
 <p align="center">
-<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -45,7 +44,6 @@
   <img alt="GNU Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
   <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt_Engineering-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
 </p>
 
 ---
@@ -99,8 +97,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4200&pause=1200&color=7AA2F7&center=true&vCenter=true&multiline=true&width=820&height=85&lines=Companies+spend+millions+on+firewalls+and+devices,+and+it%27s+wasted+money;because+none+of+them+address+the+weakest+link%3A+the+people.;%E2%80%94+Kevin+Mitnick" alt="Kevin Mitnick Quote" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/DevFrancoCardenas/DevFrancoCardenas/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
