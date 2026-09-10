@@ -84,20 +84,11 @@ Hi, I’m Franco Cardenas <img src = "https://raw.githubusercontent.com/MartinHe
 </p>
 
 <p align="center">
-  <a href="https://github.com/DevFrancoCardenas/CRM_GRADO">
-    <img width="45%" src="https://opengraph.githubassets.com/1/DevFrancoCardenas/CRM_GRADO" alt="CRM Grado" />
-  </a>
-  <a href="https://github.com/DevFrancoCardenas/CRM">
-    <img width="45%" src="https://opengraph.githubassets.com/1/DevFrancoCardenas/CRM" alt="CRM" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DevFrancoCardenas/crm_avance">
-    <img width="45%" src="https://opengraph.githubassets.com/1/DevFrancoCardenas/crm_avance" alt="CRM Avance" />
-  </a>
   <a href="https://github.com/DevFrancoCardenas/apiTest">
     <img width="45%" src="https://opengraph.githubassets.com/1/DevFrancoCardenas/apiTest" alt="apiTest" />
+  </a>
+  <a href="https://github.com/DevFrancoCardenas/DevFranco">
+    <img width="45%" src="https://opengraph.githubassets.com/1/DevFrancoCardenas/DevFranco" alt="DevFranco" />
   </a>
 </p>
 
